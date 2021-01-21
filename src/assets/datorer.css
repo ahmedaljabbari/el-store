@@ -1,0 +1,14 @@
+.datorer-container{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  box-sizing: border-box;
+}
+
+.datorer-container > *{
+  padding: 10px;
+  
+}
+
+.datorer-container img {
+  width: 350px;
+}

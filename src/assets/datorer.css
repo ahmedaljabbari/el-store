@@ -1,14 +1,44 @@
+#datorTitel{
+  text-align: center;
+}
+
 .datorer-container{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   box-sizing: border-box;
+  
 }
 
 .datorer-container > *{
   padding: 10px;
-  
+  margin: 20px auto;
+  width: 300px;
+  position: relative;
+  text-align: center;
+  box-sizing: border-box;
+ }
+
+ .datorer-container > *:hover{
+  cursor: pointer;
 }
 
 .datorer-container img {
-  width: 350px;
+  width: 200px;
+  margin: 0 auto;
+}
+
+#btnInfo{
+  font-weight: bold;
+  color: snow;
+  background-color: steelblue;
+  padding: 5px 20px;
+  margin-top: 30px;
+  border-radius: 5px;
+  border: none;
+}
+
+#btnInfo:hover{
+  background-color: teal;
+  transform: scale(1.05);
+  transition: 0.1s;
 }

@@ -11,16 +11,21 @@ class Datorer extends Component{
   render(){
     return(
       <div>
-        <h2>Datorer</h2>
+        <h2 id="datorTitel">Datorer</h2>
         <div className="datorer-container">
           
-            {this.state.items.map((item, index) =>
+            {
+            this.state.items.map((item, index) =>
               {
-                return <div key={index}>
-                  <img src={item.pic}></img>
-                  <h4>{item.name}</h4>
-                  <div>{item.about}</div>
+                while(item.genre === "computers"){
+                  return <div key={index}>
+                    <img src={item.pic} alt="Dator"></img>
+                    <h4>{item.name}</h4>
+                    <b>{item.price} kr</b> <br />
+                    <button type="button" id="btnInfo">Visa Info</button>
                 </div>
+                }
+                
               }
             )}
           

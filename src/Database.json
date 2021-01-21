@@ -2,31 +2,141 @@
   {
     "name": "Asus Vivobook 15",
     "genre": "computers",
+    "price": "4 990",
     "about": "Dess tunna profil och lätta vikt gör Asus Vivobook 15 15.6 tum bärbar dator till en perfekt hjälpreda i vardagen och är utmärkt när du vill skriva, surfa eller utföra lättare redigering. Det smidiga formatet gör att du enkelt kan ta med den överallt.",
-    "pic" : "/images/Asus Vivobook 15.webp"
+    "pic" : "/images/Asus Vivobook 15.webp",
+    "spec": {
+      "processor": "Intel Core i5",
+      "Modellnummer": "1035G1",
+      "Antal kärnor (cores)": "4",
+      "CPU Cache": "6 MG",
+      "Internminne RAM (GB)": "8 GB"
+    }
   },
   {
-    "name": "Asus Vivobook 15",
+    "name": "Lenovo Yoga Slim 7",
     "genre": "computers",
-    "about": "Dess tunna profil och lätta vikt gör Asus Vivobook 15 15.6 tum bärbar dator till en perfekt hjälpreda i vardagen och är utmärkt när du vill skriva, surfa eller utföra lättare redigering. Det smidiga formatet gör att du enkelt kan ta med den överallt.",
-    "pic" : "/images/Asus Vivobook 15.webp"
+    "price": "11 995",
+    "about": "Lenovo Yoga Slim 7 14 tum bärbar dator levererar elegans och produktivitet med en 14 tum stor IPS FHD-skärm, fantastisk färgprecision och kontrast. Med en vikt på endast 1,5 kg är den lätt att ta med och Dolby Atmos-högtalare ger utmärkt ljud.",
+    "pic" : "/images/Lenovo Yoga Slim 7.webp",
+    "spec": {
+      "processor": "AMD Ryzen 7",
+      "Modellnummer": "4700U",
+      "Antal kärnor (cores)": "8",
+      "CPU Cache": "12 MG",
+      "Internminne RAM (GB)": "8 GB"
+    }
   },
   {
-    "name": "Asus Vivobook 15",
+    "name": "HP 15-eq1801",
     "genre": "computers",
-    "about": "Dess tunna profil och lätta vikt gör Asus Vivobook 15 15.6 tum bärbar dator till en perfekt hjälpreda i vardagen och är utmärkt när du vill skriva, surfa eller utföra lättare redigering. Det smidiga formatet gör att du enkelt kan ta med den överallt.",
-    "pic" : "/images/Asus Vivobook 15.webp"
+    "price":"4 990",
+    "about": "HP 15-eq1801 15.6 tum bärbar dator är en mångsidig enhet med ett bekvämt bakgrundsbelyst tangentbord med numeriska tangenter som passar utmärkt för jobb och Radeon-grafik för smidigt spelande.",
+    "pic" : "/images/HP 15-eq1801.webp",
+    "spec": {
+      "processor": "AMD",
+      "Modellnummer": "Athlon Silver 3050U",
+      "Antal kärnor (cores)": "2",
+      "CPU Cache": "5 MG",
+      "Internminne RAM (GB)": "4 GB"
+    }
   },
   {
-    "name": "Asus Vivobook 15",
+    "name": "Samsung Galaxy Book S",
     "genre": "computers",
-    "about": "Dess tunna profil och lätta vikt gör Asus Vivobook 15 15.6 tum bärbar dator till en perfekt hjälpreda i vardagen och är utmärkt när du vill skriva, surfa eller utföra lättare redigering. Det smidiga formatet gör att du enkelt kan ta med den överallt.",
-    "pic" : "/images/Asus Vivobook 15.webp"
+    "price": "14 600",
+    "about": "Samsung Galaxy Book S bärbar dator kombinerar extremt lätt vikt med hög prestanda som klarar av mer krävande uppgifter. Tillsammans med dess LED-skärm kan du ta dig an arbetsuppgifter som kräver hög färgprecision.",
+    "pic" : "/images/Samsung Galaxy Book S.webp",
+    "spec": {
+      "processor": "Intel Core i5",
+      "Modellnummer": "L16G7",
+      "Antal kärnor (cores)": "5",
+      "CPU Cache": "4 MG",
+      "Internminne RAM (GB)": "8 GB"
+    }
   },
   {
-    "name": "Asus Vivobook 15",
+    "name": "MacBook Air 13",
     "genre": "computers",
-    "about": "Dess tunna profil och lätta vikt gör Asus Vivobook 15 15.6 tum bärbar dator till en perfekt hjälpreda i vardagen och är utmärkt när du vill skriva, surfa eller utföra lättare redigering. Det smidiga formatet gör att du enkelt kan ta med den överallt.",
-    "pic" : "/images/Asus Vivobook 15.webp"
+    "price": "12 490",
+    "about": "MacBook Air 13 M1 2020 kombinerar minimalism och kraftfull prestanda, levererad av det åttakärniga Apple M1-chipet. Den har en skarp 13-tums Retina-skärm med True Tone-teknik, bred P3-färgskala, FaceTime HD-kamera och ett Magic-tangentbord.",
+    "pic" : "/images/MacBook Air 13.webp",
+    "spec": {
+      "processor": "Apple M1",
+      "Modellnummer": "Apple MGN63KS/A",
+      "Antal kärnor (cores)": "8",
+      "CPU Cache": "12 MG",
+      "Internminne RAM (GB)": "8 GB"
+    }
+  },
+  {
+    "name": "MacBook Pro 16",
+    "genre": "computers",
+    "price": "72 489",
+    "about": "MacBook Pro 16 får jobbet gjort smidigt och effektivt med en klassledande 6-core Intel Core-processor och Radeon Pro-grafik. Den har ett precist Magic-tangentbord som är skönt att skriva på, uppgraderade högtalare och mikrofoner med studiokvalitet.",
+    "pic" : "/images/MacBook Pro 16.webp",
+    "spec": {
+      "processor": "Intel Core i7",
+      "Modellnummer": "MVVJ2KS/A",
+      "Antal kärnor (cores)": "6",
+      "CPU Cache": "16 MG",
+      "Internminne RAM (GB)": "16 GB"
+    }
+  },
+  {
+    "name": "MacBook Pro 13 M1 2020",
+    "genre": "computers",
+    "price": "15 990",
+    "about": "MacBook Pro 13 M1 2020 levererar överladdad prestanda meh hjälp av ett Apple M1 chip som är designat för proffsen. Den kommer med en Retina-skärm med True Tone balans, P3 färg gamut-stöd och superhög ljusstyrka.",
+    "pic" : "/images/MacBook Pro 13 M1 2020.png",
+    "spec": {
+      "processor": "Apple M1",
+      "Modellnummer": "Apple MYDA2KS/A",
+      "Antal kärnor (cores)": "8",
+      "CPU Cache": "12 MG",
+      "Internminne RAM (GB)": "8 GB"
+    }
+  },
+  {
+    "name": "Acer Nitro 5",
+    "genre": "computers",
+    "price": "12 990",
+    "about": "Med Acer Nitro 5 15.6” bärbar dator för gaming finns det inga kompromisser när det kommer till de ultimata spelupplevelserna. Med en Full HD IPS-skärm som ger dig hög ljusstyrka och kontrast kommer du få den ulitmata spelupplevelsen.",
+    "pic" : "/images/Acer Nitro 5.png",
+    "spec": {
+      "processor": "Intel Core i5",
+      "Modellnummer": "NH.Q7PED.00B",
+      "Antal kärnor (cores)": "4",
+      "CPU Cache": "8 MG",
+      "Internminne RAM (GB)": "16 GB"
+    }
+  },
+  {
+    "name": "Dell Inspiron G3 15 3500",
+    "genre": "computers",
+    "price": "7 990",
+    "about": "Dell Inspiron G3 15 3500 15.6 tum bärbar dator för gaming har allt du behöver för dina speläventyr inuti dess svarta och blåa chassi. Med Game Shift-teknologi får du alltid tillräckligt med kraft.",
+    "pic" : "/images/Dell Inspiron G3 15 3500.webp",
+    "spec": {
+      "processor": "Intel Core i5",
+      "Modellnummer": "Dell 1965202",
+      "Antal kärnor (cores)": "4",
+      "CPU Cache": "8 MG",
+      "Internminne RAM (GB)": "8 GB"
+    }
+  },
+  {
+    "name": "HP Pavilion 15-ec1818no",
+    "genre": "computers",
+    "price": "9 990",
+    "about": "HP Pavilion 15-ec1818no 15,6 tum bärbar dator för gaming erbjuder kompromisslös prestanda i ett lätt chassi. Dess Nvidia GPU och AMD™ Ryzen™ 5-processor erbjuder tillräckligt med kraft för spel och multitasking, och dess FHD-skärm har utmärkt bild.",
+    "pic" : "/images/HP Pavilion 15-ec1818no.webp",
+    "spec": {
+      "processor": "AMD Ryzen 5",
+      "Modellnummer": "366L0EA#UUW",
+      "Antal kärnor (cores)": "6",
+      "CPU Cache": "8 MG",
+      "Internminne RAM (GB)": "16 GB"
+    }
   }
 ]

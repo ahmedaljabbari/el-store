@@ -14,6 +14,20 @@
     }
   },
   {
+    "name": "Apple AirPods Pro",
+    "genre": "ljudBild",
+    "price": "2 290",
+    "about": "Apple AirPods blir bara bättre och bättre. Innovativa Apple AirPods Pro true wireless hörlurar färbättrar designen genom en Force-sensor för enkel kontroll och justerbara earbuds för extra komfort och perfekt passform.",
+    "pic" : "/images/Apple AirPods Pro.webp",
+    "spec": {
+      "Modellnamn": "Apple MWP22ZM/A",
+      "Typ av hörlurar": "In-ear",
+      "Kompatibel med följande operativsystem": "iOS",
+      "Anslutning": "Bluetouth",
+      "Driftstid (timmar)": "24"
+    }
+  },
+  {
     "name": "Lenovo Yoga Slim 7",
     "genre": "computers",
     "price": "11 995",
@@ -39,6 +53,20 @@
       "Antal kärnor (cores)": "2",
       "CPU Cache": "5 MG",
       "Internminne RAM (GB)": "4 GB"
+    }
+  },
+  {
+    "name": "Bose QuietComfort 35",
+    "genre": "ljudBild",
+    "price": "2 490",
+    "about": "Bose QuietComfort trådlösa hörlurar II erbjuder en förstklassig akustisk upplevelse tack vare aktiv brusreduceringsteknik som dämpar yttre brus. Bluetooth teknik med NFC parning gör att du kan du använda hörlurarna utan trassliga kablar.",
+    "pic" : "/images/Bose QuietComfort 35 QC35 II.webp",
+    "spec": {
+      "Modellnamn": "Bose QuietComfort 35 II",
+      "Typ av hörlurar": "Around-ear",
+      "Kompatibel med följande operativsystem": "Android, Google Assistant (Google Home)",
+      "Anslutning": "Bluetouth, Stereoplugg (3.5mm)",
+      "Driftstid (timmar)": "20"
     }
   },
   {
@@ -70,6 +98,20 @@
     }
   },
   {
+    "name": "JBL Charge 4",
+    "genre": "ljudBild",
+    "price": "1 290",
+    "about": "Njut av ett legendariskt JBL-ljud med JBL Charge 4 trådlös högtalare. Högtalaren är vattentät och ger dig upp till 20 timmars batteritid. Anslut flera JBL-högtalare med Connct+ för det ultimata partyljudet.",
+    "pic" : "/images/JBL Charge 4.webp",
+    "spec": {
+      "Modellnamn": "JBL JBLCHARGE4BLK",
+      "Typ av hörlurar": "Aktiv högtalare (inbyggd förstärkare)",
+      "Kompatibel med följande operativsystem": "Android och iOS",
+      "Anslutning": "Bluetouth",
+      "Driftstid (timmar)": "20"
+    }
+  },
+  {
     "name": "MacBook Pro 16",
     "genre": "computers",
     "price": "72 489",
@@ -95,6 +137,20 @@
       "Antal kärnor (cores)": "8",
       "CPU Cache": "12 MG",
       "Internminne RAM (GB)": "8 GB"
+    }
+  },
+  {
+    "name": "Jabra Elite 65t",
+    "genre": "ljudBild",
+    "price": "1 190",
+    "about": "Bäst i test i ett stor test av Aftonbladet Mars 2018 och en ny trådlös favorit enligt M3 . Helt trådlösa in-ear hörlurar med röststyrning, förbättrat ljud och Bluetooth-anslutning och ännu längre batteritid än sina tidigare modeller.",
+    "pic" : "/images/Jabra Elite 65t.webp",
+    "spec": {
+      "Modellnamn": "Jabra JELITE65TBK",
+      "Typ av hörlurar": "In-ear",
+      "Kompatibel med följande operativsystem": "Android och iOS",
+      "Anslutning": "Bluetouth",
+      "Driftstid (timmar)": "5"
     }
   },
   {

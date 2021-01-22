@@ -1,7 +1,8 @@
 import "./App.css";
 import {BrowserRouter as Router, Switch, Route, Link} from "react-router-dom";
 import Home from "./pages/Home";
-import Bildscreen from "./pages/Bildscreen";
+import Ljud from "./pages/Ljud";
+import Bild from "./pages/Bild";
 import Datorer from "./pages/Datorer";
 
 function App() {
@@ -21,8 +22,13 @@ function App() {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/bildscreen">
-                    Bildskärm
+                  <Link className="nav-link" to="/ljud">
+                    Ljud
+                  </Link>
+                </li>
+                <li className="nav-item">
+                  <Link className="nav-link" to="/bild">
+                    TV/Bild
                   </Link>
                 </li>
                 <li className="nav-item">
@@ -53,7 +59,8 @@ function App() {
 
         <Route path="/" component={Home} exact></Route>
         <Route path="/datorer" component={Datorer}></Route>
-        <Route path="/bildscreen" component={Bildscreen}></Route>
+        <Route path="/ljud" component={Ljud}></Route>
+        <Route path="/bild" component={Bild}></Route>
 
 
       </div>

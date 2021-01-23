@@ -18,7 +18,7 @@ class Bildscreen extends Component{
             {
             this.state.items.map((item, index) =>
               {
-                while(item.genre === "ljudBild"){
+                while(item.genre === "ljud"){
                   return <div key={index}>
                     <img src={item.pic} alt="Dator"></img>
                     <h4>{item.name}</h4>

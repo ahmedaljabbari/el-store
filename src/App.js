@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import Ljud from "./pages/Ljud";
 import Bild from "./pages/Bild";
 import Datorer from "./pages/Datorer";
+import Logo from "./assets/logo.png";
 
 function App() {
   return (
@@ -12,7 +13,9 @@ function App() {
         <nav className="navbar navbar-expand-lg navbar-light ">
           <div className="container-fluid">
             <Link className="navbar-brand" to="/">
-              Electronics
+              <div id="logo-container">
+                <img src={Logo} id="logo"></img>
+              </div>
             </Link>
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
               <ul className="navbar-nav me-auto mb-2 mb-lg-0">

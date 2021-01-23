@@ -14,8 +14,23 @@
     }
   },
   {
+    "name": "BenQ projektor TH683",
+    "genre": "bild",
+    "price": "6 990",
+    "about": "TH683 är uppföljaren till testvinnaren och kundfavoriten TH681+. Nu med smidigare design, fler anslutningar & nya funktioner. Tack vare hög ljusstyrka & högt kontrastvärde så blir den svår slagen i prisklassen. Passar därför både hembio & kontor.",
+    "pic" : "/images/BenQ projektor TH683.webp",
+    "spec": {
+      "Modellnamn": "BenQ TH683",
+      "Typ av lampa/ljuskälla": "Lampa",
+      "Aspect ratio": "16:9",
+      "Upplösning (i pixlar)": "1920 x 1080",
+      "Inbyggd högtalare": "Ja"
+    }
+  },
+
+  {
     "name": "Apple AirPods Pro",
-    "genre": "ljudBild",
+    "genre": "ljud",
     "price": "2 290",
     "about": "Apple AirPods blir bara bättre och bättre. Innovativa Apple AirPods Pro true wireless hörlurar färbättrar designen genom en Force-sensor för enkel kontroll och justerbara earbuds för extra komfort och perfekt passform.",
     "pic" : "/images/Apple AirPods Pro.webp",
@@ -25,6 +40,20 @@
       "Kompatibel med följande operativsystem": "iOS",
       "Anslutning": "Bluetouth",
       "Driftstid (timmar)": "24"
+    }
+  },
+  {
+    "name": "Philips The One 4K",
+    "genre": "bild",
+    "price": "6 490",
+    "about": "Med Philips 50 tum PUS8555 4K UHD Smart TV 50PUS8555/12 kan du titta på dina favorit-TV-program, surfa på Internet, leta efter videor på YouTube eller Netflix i förbättrade färger och i utmärkt 4K UHD-kvalitet.",
+    "pic" : "/images/Philips The One 4K.webp",
+    "spec": {
+      "Modellnamn": "Philips 50PUS8555/12",
+      "Typ av bildskärm": "LCD",
+      "Skärmstorlek (tum)": "50",
+      "Upplösning": "4K UHD (2160p)",
+      "Smart TV": "Ja"
     }
   },
   {
@@ -41,6 +70,7 @@
       "Internminne RAM (GB)": "8 GB"
     }
   },
+
   {
     "name": "HP 15-eq1801",
     "genre": "computers",
@@ -55,9 +85,10 @@
       "Internminne RAM (GB)": "4 GB"
     }
   },
+
   {
     "name": "Bose QuietComfort 35",
-    "genre": "ljudBild",
+    "genre": "ljud",
     "price": "2 490",
     "about": "Bose QuietComfort trådlösa hörlurar II erbjuder en förstklassig akustisk upplevelse tack vare aktiv brusreduceringsteknik som dämpar yttre brus. Bluetooth teknik med NFC parning gör att du kan du använda hörlurarna utan trassliga kablar.",
     "pic" : "/images/Bose QuietComfort 35 QC35 II.webp",
@@ -67,6 +98,20 @@
       "Kompatibel med följande operativsystem": "Android, Google Assistant (Google Home)",
       "Anslutning": "Bluetouth, Stereoplugg (3.5mm)",
       "Driftstid (timmar)": "20"
+    }
+  },
+  {
+    "name": "Samsung TU7175 4K",
+    "genre": "bild",
+    "price": "5 990",
+    "about": "Upptäck dold skönhet i 4K-bildkvalitet och hitta allt du letar efter enkelt och snabbt med Samsung 50 tum TU7175 4K UHD Smart TV UE50TU7175 med ultrasnabba Crystal Processor 4K.",
+    "pic" : "/images/Samsung TU7175 4K.webp",
+    "spec": {
+      "Modellnamn": "Samsung UE50TU7175UXXC",
+      "Typ av bildskärm": "LCD",
+      "Skärmstorlek (tum)": "50",
+      "Upplösning": "4K UHD (2160p)",
+      "Smart TV": "Ja"
     }
   },
   {
@@ -83,6 +128,7 @@
       "Internminne RAM (GB)": "8 GB"
     }
   },
+
   {
     "name": "MacBook Air 13",
     "genre": "computers",
@@ -98,8 +144,22 @@
     }
   },
   {
+    "name": "Epson laserprojektor",
+    "genre": "bild",
+    "price": "5 990",
+    "about": "Njut av superstora filmer och spel på nästan alla ytor och riktningar med kompakta och eleganta Epson laserprojektor hemmabio EF-100 som skapar levande och skarpa bilder även i dagsljus utan att behöva dra ner persiennerna.",
+    "pic" : "/images/Epson laserprojektor.webp",
+    "spec": {
+      "Modellnamn": "Epson V11H914141",
+      "Typ av lampa/ljuskälla": "Laser",
+      "Aspect ratio": "16:10",
+      "Upplösning (i pixlar)": "1280 x 800",
+      "Inbyggd högtalare": "Ja"
+    }
+  },
+  {
     "name": "JBL Charge 4",
-    "genre": "ljudBild",
+    "genre": "ljud",
     "price": "1 290",
     "about": "Njut av ett legendariskt JBL-ljud med JBL Charge 4 trådlös högtalare. Högtalaren är vattentät och ger dig upp till 20 timmars batteritid. Anslut flera JBL-högtalare med Connct+ för det ultimata partyljudet.",
     "pic" : "/images/JBL Charge 4.webp",
@@ -111,6 +171,7 @@
       "Driftstid (timmar)": "20"
     }
   },
+
   {
     "name": "MacBook Pro 16",
     "genre": "computers",
@@ -125,6 +186,7 @@
       "Internminne RAM (GB)": "16 GB"
     }
   },
+
   {
     "name": "MacBook Pro 13 M1 2020",
     "genre": "computers",
@@ -139,9 +201,10 @@
       "Internminne RAM (GB)": "8 GB"
     }
   },
+
   {
     "name": "Jabra Elite 65t",
-    "genre": "ljudBild",
+    "genre": "ljud",
     "price": "1 190",
     "about": "Bäst i test i ett stor test av Aftonbladet Mars 2018 och en ny trådlös favorit enligt M3 . Helt trådlösa in-ear hörlurar med röststyrning, förbättrat ljud och Bluetooth-anslutning och ännu längre batteritid än sina tidigare modeller.",
     "pic" : "/images/Jabra Elite 65t.webp",
@@ -153,6 +216,7 @@
       "Driftstid (timmar)": "5"
     }
   },
+
   {
     "name": "Acer Nitro 5",
     "genre": "computers",
@@ -167,6 +231,7 @@
       "Internminne RAM (GB)": "16 GB"
     }
   },
+
   {
     "name": "Dell Inspiron G3 15 3500",
     "genre": "computers",
@@ -181,6 +246,33 @@
       "Internminne RAM (GB)": "8 GB"
     }
   },
+
+  {
+    "name": "Apple AirPods 2019",
+    "genre": "ljud",
+    "price": "1 449",
+    "about": "Att lyssna på dina favoritspår kunde inte vara enklare än det är med Apple AirPods fullt trådlösa hörlurar. Dess ultrakompakta design och avsaknaden av allt av kablar gör det problemfritt och bekvämt att bära dem.",
+    "pic" : "/images/Apple AirPods 2019.webp",
+    "spec": {
+      "Modellnamn": "Apple AirPods 2019",
+      "Typ av hörlurar": "In-ear",
+      "Kompatibel med följande operativsystem": "iOS",
+      "Anslutning": "Bluetouth",
+      "Driftstid (timmar)": "5"
+    }
+  },
+  {
+    "name": "Monitor gaming denver",
+    "genre": "bild",
+    "price": "5 990",
+    "about": "Om du älskar IT och elektronik, tycker om teknik och inte vill missa en enda grej, köp Monitor Gaming Denver Electronics MLC-3202G 31,5 tum Full HD LED HDMI Kurva till ett oslagbart pris.",
+    "pic" : "/images/Monitor gaming denver.webp",
+    "spec": {
+      "Modellnamn": "denver electronics mlc-3202g",
+      "Typ av skärm": "LCD",
+      "Skärmstorlek (tum)": "31.5"
+    }
+  },
   {
     "name": "HP Pavilion 15-ec1818no",
     "genre": "computers",
@@ -193,6 +285,21 @@
       "Antal kärnor (cores)": "6",
       "CPU Cache": "8 MG",
       "Internminne RAM (GB)": "16 GB"
+    }
+  },
+
+  {
+    "name": "Huawei FreeBuds Studio",
+    "genre": "ljud",
+    "price": "2 990",
+    "about": "Upplev din favoritmusik i högupplöst ljud även i bullriga miljöer med Huawei FreeBuds Studio trådlösa around ear-hörlurar, utrustade med en mängd intelligenta och högkvalitativa funktioner.",
+    "pic" : "/images/Huawei FreeBuds Studio.webp",
+    "spec": {
+      "Modellnamn": "Huawei 55033594",
+      "Typ av hörlurar": "Around-ear",
+      "Kompatibel med följande operativsystem": "iOS och Android",
+      "Anslutning": "Bluetouth eller kabel",
+      "Driftstid (timmar)": "24"
     }
   }
 ]

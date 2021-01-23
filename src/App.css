@@ -6,3 +6,16 @@
 .navbar{
   background-color: #8fbc8f40;
 }
+
+#logo{
+  height: 45px;
+}
+
+#logo:hover{
+  transform:scale(1.1);
+  transition: 0.5s;
+}
+
+ul > li:hover {
+  font-weight: bold;
+}

@@ -14,6 +14,25 @@
     }
   },
   {
+    "name": "OnePlus Nord 5G",
+    "genre": "phones",
+    "price": "4 590",
+    "about": "OnePlus Nord smartphone är en fantastisk enhet med en 6.44 ” stor optisk AMOLED-pekskärm, fyrdubbel bakre kamera, dubbel selfie-kamera och Snapdragon 765G-spelprocessor med 5G. Batteriet på 4100 mAh stödjer Warp Charge 30T-snabbladdningsteknologi.",
+    "pic" : "/images/OnePlus Nord 5G.webp",
+    "spec": {
+      "Färg": "Gray Onyx",
+      "Typ av operativsystem": "Android 10 + OxygenOS",
+      "Processor": "Qualcomm Snapdragon 765G",
+      "Antal kameror": "6",
+      "Bakkamera - Upplösning (megapixlar)": "48",
+      "Frontkamera - Upplösning (megapixlar)": "32",
+      "Display": "Optic AMOLED",
+      "Refresh rate (Hz)": "90",
+      "Internminne RAM (GB)": "8.00",
+      "Internt lagringsutrymme (GB)": "128"
+    }
+  },
+  {
     "name": "BenQ projektor TH683",
     "genre": "bild",
     "price": "6 990",
@@ -27,7 +46,23 @@
       "Inbyggd högtalare": "Ja"
     }
   },
-
+  {
+    "name": "iPad Pro 2020",
+    "genre": "surfplattor",
+    "price": "12 490",
+    "about": "Med den nya iPad Pro 12,9 tum kan du förverkliga alla dina idéer. Oavsett om du är en blivande inredningsdesigner, apputvecklare, nyskapande arkitekt eller bara en drömmare med livlig fantasi, erbjuder iPadPro allt du behöver",
+    "pic" : "/images/iPad Pro 2020.webp",
+    "spec": {
+      "Färg": "Rymdgrå",
+      "Skärmstorlek (tum)": "12.9",
+      "Typ av operativsystem": "iPadOS 13.4",
+      "Processor": "Apple A12Z Bionic",
+      "Display": "IPS (In-Plane Switching)",
+      "Batteri": "9720 mAh",
+      "Internminne RAM (GB)": "6.00",
+      "Internt lagringsutrymme (GB)": "512"
+    }
+  },
   {
     "name": "Apple AirPods Pro",
     "genre": "ljud",
@@ -40,6 +75,25 @@
       "Kompatibel med följande operativsystem": "iOS",
       "Anslutning": "Bluetouth",
       "Driftstid (timmar)": "24"
+    }
+  },
+  {
+    "name": "Galaxy Note20 Ultra",
+    "genre": "phones",
+    "price": "4 590",
+    "about": "Samsung Galaxy Note20 Ultra 5G smartphone kommer med en högpresterande 108+12+12Mpx kamera med laser-autofokus, 5x optisk zoom och 50x Space Zoom.",
+    "pic" : "/images/Galaxy Note20 Ultra.webp",
+    "spec": {
+      "Färg": "Svart",
+      "Typ av operativsystem": "Android 10 + One UI",
+      "Processor": "Samsung Exynos 990",
+      "Antal kameror": "3",
+      "Bakkamera - Upplösning (megapixlar)": "108",
+      "Frontkamera - Upplösning (megapixlar)": "10",
+      "Display": "Dynamic AMOLED",
+      "Refresh rate (Hz)": "120",
+      "Internminne RAM (GB)": "12",
+      "Internt lagringsutrymme (GB)": "256"
     }
   },
   {
@@ -56,6 +110,7 @@
       "Smart TV": "Ja"
     }
   },
+  
   {
     "name": "Lenovo Yoga Slim 7",
     "genre": "computers",
@@ -70,7 +125,25 @@
       "Internminne RAM (GB)": "8 GB"
     }
   },
-
+  {
+    "name": "iPhone 11 Pro Max",
+    "genre": "phones",
+    "price": "10 490",
+    "about": "Världen blir ljusare när du kan se tillbaka på alla dina minnen i skarp detalj och levande färger. IPhone 11 Pro Max smartphone har hela tre bakre kameror med 12 Mpx.",
+    "pic" : "/images/iPhone 11 Pro Max.webp",
+    "spec": {
+      "Färg": "Grön",
+      "Typ av operativsystem": "iOS 13",
+      "Processor": "Apple A13 Bionic",
+      "Antal kameror": "3",
+      "Bakkamera - Upplösning (megapixlar)": "12",
+      "Frontkamera - Upplösning (megapixlar)": "12",
+      "Display": "OLED",
+      "Refresh rate (Hz)": "90",
+      "Internminne RAM (GB)": "8",
+      "Internt lagringsutrymme (GB)": "64"
+    }
+  },
   {
     "name": "HP 15-eq1801",
     "genre": "computers",
@@ -101,6 +174,25 @@
     }
   },
   {
+    "name": "OnePlus 8 Pro",
+    "genre": "phones",
+    "price": "10 990",
+    "about": "OnePlus 8 Pro smartphone ger dig premiumkvalitet med sin 6.78 tum stora Fluid AMOLED-skärm, moderna design och kraftfulla Snapdragon 865-processor med 5G. Enheten stödjer snabb 30W trådlös laddning och har IP68-klassad vatten- och smutsresistens.",
+    "pic" : "/images/OnePlus 8 Pro.webp",
+    "spec": {
+      "Färg": "Glacial Green",
+      "Typ av operativsystem": "Android 10",
+      "Processor": "Qualcomm Snapdragon 865",
+      "Antal kameror": "4",
+      "Bakkamera - Upplösning (megapixlar)": "48",
+      "Frontkamera - Upplösning (megapixlar)": "16",
+      "Display": "Fluid AMOLED",
+      "Refresh rate (Hz)": "120",
+      "Internminne RAM (GB)": "12",
+      "Internt lagringsutrymme (GB)": "256"
+    }
+  },
+  {
     "name": "Samsung TU7175 4K",
     "genre": "bild",
     "price": "5 990",
@@ -128,7 +220,25 @@
       "Internminne RAM (GB)": "8 GB"
     }
   },
-
+  {
+    "name": "Galaxy S20 Ultra",
+    "genre": "phones",
+    "price": "9 990",
+    "about": "Samsung Galaxy S20 Ultra har en välvd 6,9-tums dynamisk AMOLED-pekskärm med fantastiska färger och 120 HZ uppdateringsfrekvens, samt en kraftfull fyrdubbel kamera på baksidan med upp till 100x zoom.",
+    "pic" : "/images/Galaxy S20 Ultra.webp",
+    "spec": {
+      "Färg": "Black",
+      "Typ av operativsystem": "Android 10 - OxygenOS 11",
+      "Processor": "Samsung Exynos 990",
+      "Antal kameror": "4",
+      "Bakkamera - Upplösning (megapixlar)": "108",
+      "Frontkamera - Upplösning (megapixlar)": "40",
+      "Display": "Dynamic AMOLED 2X",
+      "Refresh rate (Hz)": "120",
+      "Internminne RAM (GB)": "16",
+      "Internt lagringsutrymme (GB)": "512"
+    }
+  },
   {
     "name": "MacBook Air 13",
     "genre": "computers",
@@ -216,7 +326,18 @@
       "Driftstid (timmar)": "5"
     }
   },
-
+  {
+    "name": "Chromecast Ultra",
+    "genre": "bild",
+    "price": "790",
+    "about": "Anslut Chromecast Ultra via HDMI-porten på din TV och spela innehåll i 4K UHD kvalitet, streama tusenvis av videor eller filmer, miljoner av sånger, spela spännande spel eller visa fotografier från din smarttelefon eller surfplatta.",
+    "pic" : "/images/Chromecast Ultra.webp",
+    "spec": {
+      "Modellnamn": "Chromecast Ultra",
+      "TV-upplösningar": "3840x2160",
+      "Ultra HD (4K) klar": "Ja"
+    }
+  },
   {
     "name": "Acer Nitro 5",
     "genre": "computers",
@@ -300,6 +421,20 @@
       "Kompatibel med följande operativsystem": "iOS och Android",
       "Anslutning": "Bluetouth eller kabel",
       "Driftstid (timmar)": "24"
+    }
+  },
+  {
+    "name": "LG CX 4K OLED",
+    "genre": "bild",
+    "price": "24 990",
+    "about": "Lys upp ditt hem med fantastisk bild från LG 65 tum CX 4K OLED TV OLED65CX, som ger dig miljarder rika färger för maximal naturtrogenhet och oändlig kontrast för filmer, streamade serier eller spel.",
+    "pic" : "/images/LG CX 4K OLED.webp",
+    "spec": {
+      "Modellnamn": "LG OLED65CX6LA",
+      "Typ av bildskärm": "OLED PREMIUM",
+      "Skärmstorlek (tum)": "65",
+      "Upplösning": "4K UHD (2160p)",
+      "Smart TV": "Ja"
     }
   }
 ]

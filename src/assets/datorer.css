@@ -28,17 +28,21 @@
 }
 
 #btnInfo{
+  text-decoration: none;
+  display: block;
   font-weight: bold;
   color: snow;
   background-color: steelblue;
   padding: 5px 20px;
+  margin: 0 auto;
   margin-top: 30px;
-  border-radius: 5px;
   border: none;
+  width: 70%;
+
 }
 
 #btnInfo:hover{
   background-color: teal;
-  transform: scale(1.05);
-  transition: 0.1s;
+  transform: scale(1.03);
+  transition: 0.2s;
 }

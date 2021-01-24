@@ -5,6 +5,8 @@ import Ljud from "./pages/Ljud";
 import Bild from "./pages/Bild";
 import Datorer from "./pages/Datorer";
 import Logo from "./assets/logo.png";
+import Mobiler from "./pages/Mobiler";
+import Surfplatta from "./pages/Surfplatta";
 
 function App() {
   return (
@@ -14,7 +16,7 @@ function App() {
           <div className="container-fluid">
             <Link className="navbar-brand" to="/">
               <div id="logo-container">
-                <img src={Logo} id="logo"></img>
+                <img src={Logo} id="logo" alt="Logo saknas"></img>
               </div>
             </Link>
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
@@ -25,8 +27,13 @@ function App() {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/ljud">
-                    Ljud
+                  <Link className="nav-link" to="mobiler">
+                    Mobiltelefon
+                  </Link>
+                </li>
+                <li className="nav-item">
+                  <Link className="nav-link" to="surfplattor">
+                    Surfplatta
                   </Link>
                 </li>
                 <li className="nav-item">
@@ -35,14 +42,9 @@ function App() {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
-                    Mobiltelefon
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a className="nav-link" href="#">
-                    Surfplatta
-                  </a>
+                  <Link className="nav-link" to="/ljud">
+                    Ljud
+                  </Link>
                 </li>
                 </ul>
               <form className="d-flex">
@@ -64,7 +66,8 @@ function App() {
         <Route path="/datorer" component={Datorer}></Route>
         <Route path="/ljud" component={Ljud}></Route>
         <Route path="/bild" component={Bild}></Route>
-
+        <Route path="/mobiler" component={Mobiler}></Route>
+        <Route path="/surfplattor" component={Surfplatta}></Route>
 
       </div>
     </Router>

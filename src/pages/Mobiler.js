@@ -2,7 +2,7 @@ import { React, Component } from "react";
 import Database from "../Api/Database.json";
 import "../assets/datorer.css";
 
-class Bild extends Component {
+class Mobiler extends Component {
   state = {
     items: Database,
   };
@@ -10,13 +10,13 @@ class Bild extends Component {
   render() {
     return (
       <div>
-        <h2 id="datorTitel">TV och Bild</h2>
+        <h2 id="datorTitel">Mobiltelefon</h2>
         <div className="datorer-container">
           {this.state.items.map((item, index) => {
-            while (item.genre === "bild") {
+            while (item.genre === "phones") {
               return (
                 <div key={index}>
-                  <img src={item.pic} alt="Bild enhet"></img>
+                  <img src={item.pic} alt="Enhetsbild Sakbas"></img>
                   <h4>{item.name}</h4>
                   <b>{item.price} kr</b> <br />
                   <a href={"/products/" + index} id="btnInfo">Visa Info</a>
@@ -30,4 +30,4 @@ class Bild extends Component {
   }
 }
 
-export default Bild;
+export default Mobiler;
